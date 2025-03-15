@@ -1,4 +1,3 @@
-![WhatsApp Image 2024-11-08 at 18 52 47_4a2f76fe](https://github.com/user-attachments/assets/d4ef46dc-7333-4835-b0b4-562c48f70e07)
 
 # 💻 Ahmed Khamis Hassan Mohamed | DevOps Engineer
 
