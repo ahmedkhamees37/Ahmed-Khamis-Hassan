@@ -1,70 +1,46 @@
+# Hi there, I'm Ahmed Khamis Hassan Mohamed! 👋
 
-# 💻 Ahmed Khamis Hassan Mohamed | DevOps Engineer
+## 🚀 About Me
+I'm a **Junior DevOps Engineer** with a passion for **automation, cloud infrastructure, and system reliability**. I specialize in optimizing infrastructure, streamlining deployments, and ensuring high availability of managed services. With strong expertise in **Kubernetes, Docker, AWS, Terraform, Ansible, and Jenkins**, I aim to build scalable and efficient systems.
 
-📍 **Alexandria, Egypt**  
-📧 [ahmedkhamees37@gmail.com](mailto:ahmedkhamees37@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/ahmed-khamis37) | [GitHub](https://github.com/ahmedkhamees37)  
+## 🎓 Education
+- **Information Technology Institute (ITI-MCIT)** – System Administration & IT Infrastructure (Ongoing)
+- **Bachelor's Degree in Computers and Information** – Suez University (2017-2021)
+  - **Graduation Project:** Automatic Number Plate Recognition (ANPR) (Excellent)
 
----
+## 💼 Professional Experience
+### **Freelance IT System Administrator (Jun 2022 – Dec 2024)**
+- Managed Linux and Windows servers to ensure optimal performance and security.
+- Designed and deployed secure network solutions, reducing downtime by 70% through proactive monitoring.
+- Automated server deployments with Ansible, improving efficiency.
 
-## 🚀 About Me  
-I am a **Junior DevOps Engineer** with a strong passion for automation, high availability, and service reliability. With hands-on experience in DevOps tools, cloud technologies, and system administration, I thrive in dynamic environments that demand efficiency and scalability.  
+### **Co-Founder, Swart Swift Tech (SST) – System Administration (Jun 2020 – Apr 2022)**
+- Installed, configured, and troubleshot Linux and Windows servers.
+- Optimized server performance and resource utilization.
+- Automated server deployment, reducing manual setup time by 50%.
 
-🔹 **Seeking** a challenging DevOps role to apply my skills and gain practical experience.  
-🔹 **Motivated** to deliver high-quality services with a focus on performance and security.  
-🔹 **Quick Learner** & **Team Player**, always striving for growth and innovation.  
+## 🏆 Certifications
+- **Red Hat Certified System Administrator (RHCSA)** (2025-2028)
+- **AWS Certified Cloud Practitioner (In Progress)**
+- **AWS Certified Solutions Architect – Associate (In Progress)**
+- **Oracle Cloud Infrastructure Associate (2025)**
+- **CCNA, CCNP, Network Security (NTI)**
+- **Huawei Certified Cloud Developer Associate (HCCDA)**
+- **Oracle Cloud Infrastructure – AI Associate (2025)**
 
----
+## 🛠️ Technical Skills
+- **Cloud & Infrastructure:** Kubernetes, Docker, AWS, Terraform, VMware, Oracle Cloud
+- **Automation & CI/CD:** Ansible, Jenkins, GitLab, ArgoCD
+- **Networking & Security:** CCNA, CCNP, Network Security
+- **Operating Systems:** Linux Administration, Windows Server
+- **Scripting & Development:** Bash, Python, SQL, PL/SQL
+- **Web Servers & Databases:** Apache, Nginx, Oracle DB, RMAN Backup & Recovery
 
-## 🛠️ Technical Skills  
+## 📫 Connect with Me
+- 📧 Email: ahmedkhamees37@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/ahmed-khamis37)
+- 🐙 [GitHub](https://github.com/ahmedkhamees37)
+- 🐳 [Docker Hub](https://hub.docker.com/u/ahmedkhamis1)
 
-### **DevOps & Cloud:**  
-- Kubernetes | Docker | AWS | Terraform  
-- Jenkins | Ansible | ArgoCD | GitLab  
-
-### **System Administration:**  
-- Linux & Windows Server Management  
-- Bash & Python Scripting  
-- Apache & Nginx | VMware & vSphere  
-
-### **Networking & Security:**  
-- CCNA | CCNP | Network Security  
-
-### **Database Administration:**  
-- Oracle DB Admin | SQL & PL/SQL  
-- Backup & Recovery (RMAN)  
-
----
-
-## 📚 Education & Training  
-🎓 **Bachelor's Degree in Computers and Information** – Suez University (2017-2021)  
-📌 **System Administration Track** – ITI-MCIT (2024)  
-📌 **Professional Training in DevOps** – ITI-MCIT & MaharaTech-Pluralsight (2023)  
-📌 **Network & Security Certifications** – NTI (CCNA, CCNP)  
-
----
-
-## 🔥 Certifications  
-✅ Cisco Certified Network Associate (CCNA)  
-✅ Advanced Network (CCNP)  
-✅ Network & Information Security (NTI)  
-
----
-
-## 📈 Experience  
-
-### **Freelancer (2022 - 2024) | Alex, Egypt**  
-- Provided system administration services for Linux & Windows servers.  
-- Implemented secure network solutions & managed firewalls.  
-- Troubleshot and optimized IT infrastructure for clients.  
-
-### **Co-Founder, Swart Swift Tech (2020 - 2022) | Suez, Egypt**  
-- Installed, configured, and maintained Linux & Windows Server 2016.  
-- Monitored system performance & ensured security compliance.  
-
----
-
-## 📫 Get in Touch  
-💼 Open to new opportunities in DevOps & Cloud Engineering!  
-📧 Feel free to connect via [Email](mailto:ahmedkhamees37@gmail.com) or [LinkedIn](https://linkedin.com/in/ahmed-khamis37).
+🚀 Always open to new opportunities and collaborations! Let's build something amazing together. 😊
 
